@@ -1,0 +1,13 @@
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.exe
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.deps.json
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.runtimeconfig.json
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.runtimeconfig.dev.json
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.dll
+H:\програмирование\polimorphism\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.pdb
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.csprojAssemblyReference.cache
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.AssemblyInfoInputs.cache
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.AssemblyInfo.cs
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.csproj.CoreCompileInputs.cache
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.dll
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.pdb
+H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.genruntimeconfig.cache
