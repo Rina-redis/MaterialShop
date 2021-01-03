@@ -11,7 +11,15 @@ namespace polimorphism
         public int Price { get; set; }      
         public bool IsInMagazine { get; set; }
 
-        public int GetDiscountPrice(User user)
+        public Materials(string name, string color, int price, bool isinmagazine)
+        {
+            Name = name;
+            Color = color;
+            Price = price;
+            IsInMagazine = isinmagazine;
+        }
+
+        public virtual int GetDiscountPrice(User user)
         {
             if (user.Spent < 300)
             {
@@ -24,12 +32,21 @@ namespace polimorphism
             return (int)(Price * 0.8);
         }
 
-        public virtual void PrintInfo(Materials material)
+        public virtual void PrintInfo()
         {
-            Console.WriteLine(material.Name);
-            Console.WriteLine(material.Color);
-            Console.WriteLine(material.Price);
-            Console.WriteLine(material.IsInMagazine);
+            Console.WriteLine();
+            Console.WriteLine("Название: "+Name);
+            Console.WriteLine("Цвет: "+Color);
+            Console.WriteLine("Цена "+Price);
+            if (IsInMagazine)
+            {
+                Console.WriteLine("Есть в магазине");
+            }
+            if (!IsInMagazine)
+            {
+                Console.WriteLine("Нету в магазине");
+            }
+            
         }
 
     }

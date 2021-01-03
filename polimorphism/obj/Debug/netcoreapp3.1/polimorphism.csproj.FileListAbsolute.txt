@@ -11,3 +11,16 @@ H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp
 H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.dll
 H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.pdb
 H:\програмирование\polimorphism\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.genruntimeconfig.cache
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.csprojAssemblyReference.cache
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.AssemblyInfoInputs.cache
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.AssemblyInfo.cs
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.csproj.CoreCompileInputs.cache
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.dll
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.pdb
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.exe
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.deps.json
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.runtimeconfig.json
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.runtimeconfig.dev.json
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.dll
+H:\програмирование\MaterialShop\polimorphism\bin\Debug\netcoreapp3.1\polimorphism.pdb
+H:\програмирование\MaterialShop\polimorphism\obj\Debug\netcoreapp3.1\polimorphism.genruntimeconfig.cache

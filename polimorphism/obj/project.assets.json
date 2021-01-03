@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\програмирование\\polimorphism\\polimorphism\\polimorphism.csproj",
+      "projectUniqueName": "H:\\програмирование\\MaterialShop\\polimorphism\\polimorphism.csproj",
       "projectName": "polimorphism",
-      "projectPath": "H:\\програмирование\\polimorphism\\polimorphism\\polimorphism.csproj",
+      "projectPath": "H:\\програмирование\\MaterialShop\\polimorphism\\polimorphism.csproj",
       "packagesPath": "C:\\Users\\Rina\\.nuget\\packages\\",
-      "outputPath": "H:\\програмирование\\polimorphism\\polimorphism\\obj\\",
+      "outputPath": "H:\\програмирование\\MaterialShop\\polimorphism\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rina\\AppData\\Roaming\\NuGet\\NuGet.Config",

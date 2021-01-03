@@ -1,25 +1,20 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace polimorphism
 {
-    class Laminat:Materials
+    class Laminat : Materials
     {
         public int Long { get; set; }
-        public Laminat(string name, string color, int price, bool isinmagazine, int longof)
+        public Laminat(string name, string color, int price, bool isinmagazine, int longof) : base(name, color, price, isinmagazine)
         {
-            name = Name;
-            color = Color;
-            price = Price;
-            isinmagazine = IsInMagazine;
-            longof = Long;
+
+            Long = longof;
         }
 
-        public override void PrintInfo(Materials material):base
+        public override void PrintInfo()
         {
-            base.PrintInfo(material);
-            Console.WriteLine("Длинна" + " "+ Long+"метров");
+            base.PrintInfo();
+            Console.WriteLine("Длинна" + " " + Long + " метров");
         }
     }
 }
